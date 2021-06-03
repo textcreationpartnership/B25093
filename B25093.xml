@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King: a proclamation. James R. Whereas we have received certain information that the usurper and his adherents in England are making great preparations to make a fresh invasion on this our kingdom with a numerous army as well of Danes and other forraigners ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25093</idno><idno type="EEBO-CITATION">99886414</idno>
+  <idno type="VID">186669</idno>
+  <idno type="EEBO-PROQUEST">2264216277</idno>
+  
+            <idno type="STC">Wing J299</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[94]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[104]</idno>
+            <idno type="STC">ESTC R225983</idno>
+            <idno type="PROQUEST">ocm99886414</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886414e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186669)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[94]; C23:1[104])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King: a proclamation. James R. Whereas we have received certain information that the usurper and his adherents in England are making great preparations to make a fresh invasion on this our kingdom with a numerous army as well of Danes and other forraigners ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for alderman James Malone book-seller in Skinner-Row, and printer to the King's most excellent Majesty;,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689 [i.e. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>"Given at our court at Dublin Castle the fourth day of February. 1689."</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>A levy of £20,000 per month for three months on personal estates. Cf. Steele.</note>
+                  <note>Arms 185.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186669:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms, circa 1689</figDesc>
+                  <p>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>BY THE KING: A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We have Received certain Infor<g ref="char:EOLhyphen"/>mation that the Vsurper and his Adherents in <hi>England</hi> are making great Preparations to make a fresh Invasion on this Out Kingdom with a numerous Army as well of <hi>Danes</hi> and o<g ref="char:EOLhyphen"/>ther Forraigners as of such of Our own Sub<g ref="char:EOLhyphen"/>jects as they can seduce to take up Arms a<g ref="char:EOLhyphen"/>gainst Vs, and do threaten no less then the To<g ref="char:EOLhyphen"/>tal Extirpation of all Our Faithful Subjects of this Realm, We do therefore finde Our selfe ob<g ref="char:EOLhyphen"/>lidged to make use of the most effectual means We can for Raiseing and Maintaining a suffici<g ref="char:EOLhyphen"/>ent Force to Oppose and repell so unatural and so impious an Attempt and whereas the Experience of all times hath shewed that an Army cannot be Serviceable without good Order and Discipline, which may not the Kept without making Regular and due Payments, the only meanes to keep them from Oppressing and Plundering the people; And whereas the late Act of Supply has charged the Subsidy thereby granted towards the Support of Our Army altogether on Lands and Tenements, and such Leases only as are set at half value or under, which Subsidy as it can<g ref="char:EOLhyphen"/>not be Levyed in some parts of the Kingdom now Infested with the Re<g ref="char:EOLhyphen"/>bels,
+<pb facs="tcp:186669:2"/> nor out of some Lands which are waste, so it is not in it self Suffi<g ref="char:EOLhyphen"/>cient to Defray the Charges of the War; and since the Vrgency is so great upon this present Occasion, where no less then the safety of the Publique as well as of every man in particular is Concerned as that it cannot admit of any delay; and therefore the Ordinary method of give<g ref="char:EOLhyphen"/>ing Supplies in Parliament (alwayes practised in settled times) cannot be at present made use of without the loss of too much time; and since it cannot but seém Reasonable that where all Estates and all Degrees are e<g ref="char:EOLhyphen"/>qually at stake, the Personal Estates should contribute to the Common Defence; Wherefore after Mature Deliberation had with Our Privy Coun<g ref="char:EOLhyphen"/>cil upon the present State of Affaires, and upon due Examination of what hath been done in the like Extraordinary exigencies in former times, We have thought fit by the Advice of Our said Privy Council to Order and Declare, and We do hereby Order and Declare that a Contribution of Twenty thousand Pounds per Month for the space of three Months ending the last day of <hi>January</hi> last past shall be forthwith Applotted, Layd in and Levyed upon the Personal Estates of all sorts within this Kingdom (Houshold goods, Apparrel, and such Leases as are already Cha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the said Act of Supply only excepted) and also upon the benefit of Trade and Traffick wherein each Person is to be made Lyable in Proportion to his Substance and to the Profit or Advantage of his Trade or Traffick, and that all and every the Counties, Cities, and Towns Corporate within this Kingdom shall Bear and Pay so much, and in such and the like share and Proportion of the said Contribution as they and every of them Re<g ref="char:EOLhyphen"/>spectively do Bear and Pay of the aforesaid Subsidy already granted by the said Act of Supply, which said Contribution is to be equally Applotted by Commissioners to be forthwith by Vs named in each County, City, and Town Corporate, who shall make Bookes thereof, and proceed therein ac<g ref="char:EOLhyphen"/>cording to Instructions which We shall forthwith cause to be Published in that behalf to the end that the same may be Levyed and Payed with all speed without which it cannot answer those good and Necessary ends for which it is Intended. And for the better Enabling of all Our Loving Subjects to Pay this Contribution, and for securing them for the future a<g ref="char:EOLhyphen"/>gainst all free Quarterings and other Oppressions and Injuries that may be offered them by any of Our Army, We have further thought fit by the Advice aforesaid to Declare that We will forthwith Appoint one or more Persons in each County and City within this Kingdom, who shall have Power to Receive all Complaints Concerning any Exactions or Extortions to be Committed by any Officers or Soldiers of Our Army, and out of Our Revenue to make present Payment to the parties aggrieved for the Damage by them Sustained, and to Return such Complaints to Our Secretary of War in Order to have the Value of such Damage deducted for Vs out of the Pay of the Parties Offending, and also to have them Proceeded against according to the Articles of War, which have been here<g ref="char:EOLhyphen"/>tofore or hereafter shall be by Vs made in that behalf.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Dublin</hi> Castle</hi>
+                  <date>
+                     <hi>the fourth day of <hi>February.</hi>
+                     </hi> 1689. <hi>And in the Fifth Year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <hi>GOD SAVE THE KING.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed for Alderman <hi>James Malone</hi> Book-seller in <hi>Skinner-Row,</hi> and Printer to the King's Most Excellent Majesty; 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
